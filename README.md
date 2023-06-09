@@ -1,2 +1,0 @@
-# thinkful-assignment-
-github initiation
